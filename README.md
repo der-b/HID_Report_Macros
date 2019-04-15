@@ -1,7 +1,9 @@
 # HID Report Macros
 
-The C header file "HID_Report.h" provides preprocessor macros which allows to write HID Reports a notation which looks similar to the notation used in HID Report Standard [1].
+The C header file "HID_Report.h" provides preprocessor macros which allows to write HID Reportsin a notation which looks similar to the notation used in HID Report Standard [1].
 The usage tables defined in [2] are partly defined in the header file.
+
+This Header file is still work in progress.
 
 ## Example
 
